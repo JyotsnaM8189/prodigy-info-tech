@@ -28,3 +28,7 @@ Working on this project using html,css,javascript was a valuable experience that
   - **JavaScript Timing Functions:** Gained deeper insights into using 'setInterval' and 'clearInterval' for real-time applications.
   - **Debugging:** Enhanced my debugging skills and problem-solved skills.
   - **Event Handling:** Gained experience in handling the user events in JavaScript,ensuring smooth interactions.
+
+<h1>TIC TAC TOE</h1>
+
+
