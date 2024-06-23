@@ -29,6 +29,38 @@ Working on this project using html,css,javascript was a valuable experience that
   - **Debugging:** Enhanced my debugging skills and problem-solved skills.
   - **Event Handling:** Gained experience in handling the user events in JavaScript,ensuring smooth interactions.
 
-<h1>TIC TAC TOE</h1>
+<h1>Tic Tac Toe</h1>
+
+![Screenshot 2024-06-23 121037](https://github.com/JyotsnaM8189/prodigy-info-tech/assets/172012948/72a031a9-4a64-4744-bbd0-6165413108d1)
+
+## Description
+A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
+
+## Features
+- Single-player mode against the computer.
+- Responsive design using CSS Grid.
+- Simple and intuitive user interface.
+- Minimalistic design.
+
+## Usage 
+- Click on any cell in the grid to make a move.
+- The game alternates between X and O.
+- The computer (O) makes its move automatically after yours.
+- The game announces the winner or a tie.
+
+## Technologies Used
+- **HTML:** Structure of the game board and user interface.
+- **CSS:** Styling the game board, cells, and responsive layout.
+- **JavaScript:** building the Game logic, including player moves, win detection and whether the game is draw or not.
+
+## Experience
+Building this Tic Tac Toe game provided valuable experience in implementing fundamental game mechanics using web technologies.It involves understanding gaming algorithms, player moves and win conditions.This is a
+great experience to learn creating user interface with responsive design using CSS Grid and Flexbox.In the journey of developing this game this project not only enhanced my technical skills but also reinforced the importance of clean code practices and effective problem-solving strategies in web development.
+
+## Knowlwdge Gained
+- Understanding and implementing basic game algorithms.
+- Applying CSS techniques for responsive design and styling.
+- Enhancing JavaScript skills through practical project implementation.
+- Experience with project organization and documentation.
 
 
